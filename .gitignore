@@ -1,0 +1,4 @@
+/nbproject/private/
+vendor/
+.env
+config/config_inc.php
